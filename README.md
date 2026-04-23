@@ -14,12 +14,13 @@ This application demonstrates navigation between screens using Navigator.push() 
 ## Screenshots
 
 ### Home Screen
-![Home](assets/11 PM.jpeg)
+![Home](assets/44 PM.jpeg)
 
 ### Detail Screen
-![Details](assets/22 PM.jpeg)
-
-(assets/33 PM.jpeg)
+![Details](assets/11 PM.jpeg)
+ 
+ ## Screenshots
+(assets/22 PM.jpeg)
 (assets/44 PM.jpeg)
 (assets/55 PM.jpeg)
 //
